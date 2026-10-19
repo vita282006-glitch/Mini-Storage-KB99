@@ -1,0 +1,49 @@
+# ===== macOS =====
+.DS_Store
+._*
+
+# ===== 1С: выгрузка конфигурации в файлы (Конфигуратор → Выгрузить в файлы) =====
+
+# Служебные файлы выгрузки
+*.cfe
+*.epf
+*.erf
+*.cf
+*.cfu
+
+# Кэш и служебное
+/DumpFiles/
+/Logs/
+*.log
+
+# ===== 1С: EDT (Eclipse-based) =====
+
+# Служебные папки EDT
+/.settings/
+/.metadata/
+/.recommenders/
+/.plugins/
+/.build/
+/.externalToolBuilders/
+/.gradle/
+/bin/
+/target/
+*.class
+
+# Служебные файлы проектов EDT
+*.project
+*.classpath
+.project
+.classpath
+*.launch
+
+# Кэш EDT
+/.cache/
+/.index/
+
+# ===== Общий мусор IDE / редакторов =====
+.idea/
+.vscode/
+*.swp
+*~
+Thumbs.db
