@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.21">
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
 	<ConfigVersions>
 		<Metadata name="Catalog.Контрагенты" id="fc9546ca-84e6-4ef8-b2f5-1589226a0791" configVersion="111a2b1f94229340a27bbdbdd06bcdad00000000"/>
 		<Metadata name="Catalog.Товары" id="930cf1cb-9561-4eb5-832a-2474eff2fe04" configVersion="0dc0939307bcaf48ad1899be93f632a500000000"/>
 		<Metadata name="CommonModule.РаботаСДокументами" id="27b79fb6-662c-44f5-b1b5-389e29bf7f4e" configVersion="b02e37a160abc44aa2b33a412a1dcf3100000000"/>
 		<Metadata name="CommonModule.РаботаСДокументами.Module" id="27b79fb6-662c-44f5-b1b5-389e29bf7f4e.0" configVersion="bcadbb9635c5ef408c05985945e8cecd00000000"/>
-		<Metadata name="Configuration.Конфигурация" id="8339330d-86dd-42ee-8769-627a562f6a2e" configVersion="41885c2f47988342b3e03a3eca5dc5fb00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="8339330d-86dd-42ee-8769-627a562f6a2e" configVersion="4fe6bb986bda1a4c994d2d8d305acf2600000000"/>
 		<Metadata name="Document.Поступление" id="380d3e8d-53f7-4ae1-8765-a414e7d9b989" configVersion="2b92f0c214c60f4ca9758fce23df3f5900000000">
 			<Metadata name="Document.Поступление.TabularSection.Товары.Attribute.Количество" id="0f28498a-0363-44c3-9d8b-1f8c227b89e8"/>
 			<Metadata name="Document.Поступление.TabularSection.Товары.Attribute.Цена" id="24769782-b238-47eb-8caa-ec3054993c2d"/>
