@@ -262,6 +262,8 @@
 			<Subsystem>МиниСклад</Subsystem>
 			<Catalog>Товары</Catalog>
 			<Catalog>Контрагенты</Catalog>
+			<Document>Поступление</Document>
+			<Document>Реализация</Document>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

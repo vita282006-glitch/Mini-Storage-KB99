@@ -18,6 +18,8 @@
 			<Content>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Товары</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Контрагенты</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.Поступление</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.Реализация</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
