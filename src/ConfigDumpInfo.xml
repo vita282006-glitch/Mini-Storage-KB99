@@ -4,7 +4,7 @@
 		<Metadata name="Catalog.Контрагенты" id="fc9546ca-84e6-4ef8-b2f5-1589226a0791" configVersion="111a2b1f94229340a27bbdbdd06bcdad00000000"/>
 		<Metadata name="Catalog.Товары" id="930cf1cb-9561-4eb5-832a-2474eff2fe04" configVersion="0dc0939307bcaf48ad1899be93f632a500000000"/>
 		<Metadata name="Configuration.Конфигурация" id="8339330d-86dd-42ee-8769-627a562f6a2e" configVersion="285e514ec73b264a9bfeb57d39c5d13800000000"/>
-		<Metadata name="Document.Поступление" id="380d3e8d-53f7-4ae1-8765-a414e7d9b989" configVersion="a36fec3cb3e3dd41acd32cad4069366b00000000">
+		<Metadata name="Document.Поступление" id="380d3e8d-53f7-4ae1-8765-a414e7d9b989" configVersion="924f84aad7c4fb4982d3e5e42ef4dae700000000">
 			<Metadata name="Document.Поступление.TabularSection.Товары.Attribute.Количество" id="0f28498a-0363-44c3-9d8b-1f8c227b89e8"/>
 			<Metadata name="Document.Поступление.TabularSection.Товары.Attribute.Цена" id="24769782-b238-47eb-8caa-ec3054993c2d"/>
 			<Metadata name="Document.Поступление.TabularSection.Товары.Attribute.Сумма" id="68bcc836-b652-4011-90f4-379820848dfb"/>
@@ -12,7 +12,7 @@
 			<Metadata name="Document.Поступление.TabularSection.Товары" id="e476a004-115a-4409-9c87-730c77a036df"/>
 			<Metadata name="Document.Поступление.TabularSection.Товары.Attribute.Товар" id="e84c9306-7bb3-413d-91db-692b57bc3b13"/>
 		</Metadata>
-		<Metadata name="Document.Реализация" id="7d337faf-0a51-4d32-885a-8334bdbd3242" configVersion="dd38da1e06756144997b7f566a8de52d00000000">
+		<Metadata name="Document.Реализация" id="7d337faf-0a51-4d32-885a-8334bdbd3242" configVersion="62ee3fd4620295489d04a148ebc86be800000000">
 			<Metadata name="Document.Реализация.TabularSection.Товары.Attribute.Количество" id="479d73ad-59ef-4fe1-9bef-34f7400aef54"/>
 			<Metadata name="Document.Реализация.TabularSection.Товары.Attribute.Сумма" id="54ffed68-ce54-412f-90ab-0ab6c4fc497c"/>
 			<Metadata name="Document.Реализация.TabularSection.Товары.Attribute.Цена" id="5c9af121-51b5-4b97-9327-c679f4313367"/>
