@@ -259,6 +259,9 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Subsystem>МиниСклад</Subsystem>
+			<Catalog>Товары</Catalog>
+			<Catalog>Контрагенты</Catalog>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
