@@ -254,12 +254,13 @@
 			<InterfaceCompatibilityMode>Taxi</InterfaceCompatibilityMode>
 			<Version85InterfaceMigrationMode>DontUse</Version85InterfaceMigrationMode>
 			<DatabaseTablespacesUseMode>DontUse</DatabaseTablespacesUseMode>
-			<CompatibilityMode>Version8_3_24</CompatibilityMode>
+			<CompatibilityMode>Version8_3_16</CompatibilityMode>
 			<DefaultConstantsForm/>
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Subsystem>МиниСклад</Subsystem>
+			<CommonModule>РаботаСДокументами</CommonModule>
 			<Catalog>Товары</Catalog>
 			<Catalog>Контрагенты</Catalog>
 			<Document>Поступление</Document>
