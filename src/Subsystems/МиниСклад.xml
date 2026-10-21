@@ -14,7 +14,10 @@
 			<IncludeInCommandInterface>true</IncludeInCommandInterface>
 			<UseOneCommand>false</UseOneCommand>
 			<Explanation/>
-			<Picture/>
+			<Picture>
+				<xr:Ref>CommonPicture.КартинкаМиниСкалд</xr:Ref>
+				<xr:LoadTransparent>true</xr:LoadTransparent>
+			</Picture>
 			<Content>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Товары</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Контрагенты</xr:Item>
