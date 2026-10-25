@@ -246,7 +246,7 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Subsystem>МиниСклад</Subsystem>
-			<CommonPicture>КартинкаМиниСкалд</CommonPicture>
+			<CommonPicture>КартинкаМиниСклад</CommonPicture>
 			<CommonModule>РаботаСДокументами</CommonModule>
 			<Catalog>Товары</Catalog>
 			<Catalog>Контрагенты</Catalog>

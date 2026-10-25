@@ -15,7 +15,7 @@
 			<UseOneCommand>false</UseOneCommand>
 			<Explanation/>
 			<Picture>
-				<xr:Ref>CommonPicture.КартинкаМиниСкалд</xr:Ref>
+				<xr:Ref>CommonPicture.КартинкаМиниСклад</xr:Ref>
 				<xr:LoadTransparent>true</xr:LoadTransparent>
 			</Picture>
 			<Content>
