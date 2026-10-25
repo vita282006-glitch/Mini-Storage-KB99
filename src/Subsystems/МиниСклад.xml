@@ -15,7 +15,7 @@
 			<UseOneCommand>false</UseOneCommand>
 			<Explanation/>
 			<Picture>
-				<xr:Ref>CommonPicture.КартинкаМиниСкалд</xr:Ref>
+				<xr:Ref>CommonPicture.КартинкаМиниСклад</xr:Ref>
 				<xr:LoadTransparent>true</xr:LoadTransparent>
 			</Picture>
 			<Content>
@@ -23,6 +23,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Контрагенты</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Document.Поступление</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Document.Реализация</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.ОстаткиТоваров</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
