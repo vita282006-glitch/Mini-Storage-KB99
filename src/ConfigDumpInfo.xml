@@ -8,7 +8,7 @@
 		<Metadata name="CommonPicture.КартинкаМиниСкалд" id="3371610e-c7d9-4916-b94a-174baeb218d2" configVersion="a7480c088c012749aca3fb322ef936e700000000"/>
 		<Metadata name="CommonPicture.КартинкаМиниСкалд.Picture" id="3371610e-c7d9-4916-b94a-174baeb218d2.0" configVersion="55937c87ebbf984faf5c6d99f8f1976300000000"/>
 		<Metadata name="Configuration.Конфигурация" id="8339330d-86dd-42ee-8769-627a562f6a2e" configVersion="a24eccb650fa10449ad4cc6f1c38c30800000000"/>
-		<Metadata name="Document.Поступление" id="380d3e8d-53f7-4ae1-8765-a414e7d9b989" configVersion="2b92f0c214c60f4ca9758fce23df3f5900000000">
+		<Metadata name="Document.Поступление" id="380d3e8d-53f7-4ae1-8765-a414e7d9b989" configVersion="54d46a117aa288489063ddaf20f19feb00000000">
 			<Metadata name="Document.Поступление.TabularSection.Товары.Attribute.Количество" id="0f28498a-0363-44c3-9d8b-1f8c227b89e8"/>
 			<Metadata name="Document.Поступление.TabularSection.Товары.Attribute.Цена" id="24769782-b238-47eb-8caa-ec3054993c2d"/>
 			<Metadata name="Document.Поступление.TabularSection.Товары.Attribute.Сумма" id="68bcc836-b652-4011-90f4-379820848dfb"/>
@@ -18,7 +18,7 @@
 		</Metadata>
 		<Metadata name="Document.Поступление.Form.ФормаДокумента" id="9d71de91-b104-4f5d-9851-97fed332618f" configVersion="08fd7d1c1d260b48af932b057d239e3100000000"/>
 		<Metadata name="Document.Поступление.Form.ФормаДокумента.Form" id="9d71de91-b104-4f5d-9851-97fed332618f.0" configVersion="b805890c961bc347865aa03ae7bb590100000000"/>
-		<Metadata name="Document.Реализация" id="7d337faf-0a51-4d32-885a-8334bdbd3242" configVersion="e994380827a06441a741bbb7de0b901c00000000">
+		<Metadata name="Document.Реализация" id="7d337faf-0a51-4d32-885a-8334bdbd3242" configVersion="a50eca90eab50342aeaefd998ce87d0100000000">
 			<Metadata name="Document.Реализация.TabularSection.Товары.Attribute.Количество" id="479d73ad-59ef-4fe1-9bef-34f7400aef54"/>
 			<Metadata name="Document.Реализация.TabularSection.Товары.Attribute.Сумма" id="54ffed68-ce54-412f-90ab-0ab6c4fc497c"/>
 			<Metadata name="Document.Реализация.TabularSection.Товары.Attribute.Цена" id="5c9af121-51b5-4b97-9327-c679f4313367"/>
