@@ -26,6 +26,10 @@
 				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.ОстаткиТоваров</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Report.ОтчетПоПродажам</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.Продажи</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">ChartOfCharacteristicTypes.СвойстваТоваров</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ВариантыТоваров</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ДополнительныеСвойстваТоваров</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ЗначенияСвойствТоваров</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
