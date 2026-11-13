@@ -250,11 +250,15 @@
 			<CommonModule>РаботаСДокументами</CommonModule>
 			<Catalog>Товары</Catalog>
 			<Catalog>Контрагенты</Catalog>
+			<Catalog>ДополнительныеСвойстваТоваров</Catalog>
+			<Catalog>ВариантыТоваров</Catalog>
 			<Document>Поступление</Document>
 			<Document>Реализация</Document>
 			<Report>ОтчетПоПродажам</Report>
+			<InformationRegister>ЗначенияСвойствТоваров</InformationRegister>
 			<AccumulationRegister>ОстаткиТоваров</AccumulationRegister>
 			<AccumulationRegister>Продажи</AccumulationRegister>
+			<ChartOfCharacteristicTypes>СвойстваТоваров</ChartOfCharacteristicTypes>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
