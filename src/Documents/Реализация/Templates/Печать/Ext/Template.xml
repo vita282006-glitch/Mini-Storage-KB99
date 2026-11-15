@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <document xmlns="http://v8.1c.ru/8.2/data/spreadsheet" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<languageSettings>
 		<currentLanguage>ru</currentLanguage>
@@ -64,7 +64,7 @@
 	</columns>
 	<columns>
 		<id>47ce999d-d07f-4f6d-877b-0792a05460af</id>
-		<size>6</size>
+		<size>7</size>
 		<columnsItem>
 			<index>0</index>
 			<column>
@@ -97,6 +97,12 @@
 		</columnsItem>
 		<columnsItem>
 			<index>5</index>
+			<column>
+				<formatIndex>9</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>6</index>
 			<column>
 				<formatIndex>10</formatIndex>
 			</column>
@@ -250,6 +256,17 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
+							<v8:content>Свойство</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>16</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
 							<v8:content>Количество</v8:content>
 						</v8:item>
 					</tl>
@@ -294,6 +311,12 @@
 				<c>
 					<f>18</f>
 					<parameter>Товар</parameter>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>18</f>
+					<parameter>Свойство</parameter>
 				</c>
 			</c>
 			<c>
@@ -444,19 +467,19 @@
 		<width>544</width>
 	</format>
 	<format>
-		<width>86</width>
+		<width>45</width>
 	</format>
 	<format>
-		<width>240</width>
+		<width>200</width>
 	</format>
 	<format>
-		<width>176</width>
+		<width>160</width>
 	</format>
 	<format>
-		<width>145</width>
+		<width>100</width>
 	</format>
 	<format>
-		<width>147</width>
+		<width>120</width>
 	</format>
 	<format>
 		<font>0</font>
