@@ -25,9 +25,10 @@
 		<Metadata name="Catalog.ДополнительныеСвойстваТоваров.Form.ФормаЭлемента" id="d1adb428-b6a5-40ff-9327-398dc3bd0663" configVersion="76e2ea0f0c88694db690b0f43a4e1e6200000000"/>
 		<Metadata name="Catalog.ДополнительныеСвойстваТоваров.Form.ФормаЭлемента.Form" id="d1adb428-b6a5-40ff-9327-398dc3bd0663.0" configVersion="0c922a1058e11c4bac134952f4d8144300000000"/>
 		<Metadata name="Catalog.Контрагенты" id="fc9546ca-84e6-4ef8-b2f5-1589226a0791" configVersion="111a2b1f94229340a27bbdbdd06bcdad00000000"/>
-		<Metadata name="Catalog.Товары" id="930cf1cb-9561-4eb5-832a-2474eff2fe04" configVersion="ad991478a1b13240bd5e8fe44fdb361400000000"/>
+		<Metadata name="Catalog.Товары" id="930cf1cb-9561-4eb5-832a-2474eff2fe04" configVersion="0e467b65f4e84b4192d22ff5035e485500000000"/>
 		<Metadata name="Catalog.Товары.Form.ФормаСписка" id="cc66e49a-3265-4ee1-ba9d-e13e1fc3df49" configVersion="1c5df952a9efc7469cf0f2a6d7301e4300000000"/>
 		<Metadata name="Catalog.Товары.Form.ФормаСписка.Form" id="cc66e49a-3265-4ee1-ba9d-e13e1fc3df49.0" configVersion="4d7ff2cdc5811342bec6d365df87a1cd00000000"/>
+		<Metadata name="Catalog.Товары.ObjectModule" id="930cf1cb-9561-4eb5-832a-2474eff2fe04.0" configVersion="076ed6e98211444bbef1d182d6cca08c00000000"/>
 		<Metadata name="ChartOfCharacteristicTypes.СвойстваТоваров" id="d2d6a4ee-6345-4dc0-a9f3-d4493d090fb2" configVersion="2fc82c95ea5468488f4696e28560fdd100000000"/>
 		<Metadata name="CommonModule.РаботаСДокументами" id="27b79fb6-662c-44f5-b1b5-389e29bf7f4e" configVersion="2338a76469e2a346bd4351aa1c71244500000000"/>
 		<Metadata name="CommonModule.РаботаСДокументами.Module" id="27b79fb6-662c-44f5-b1b5-389e29bf7f4e.0" configVersion="c9a7c61b04dbfe4a8e3989014284716500000000"/>
@@ -46,7 +47,7 @@
 		<Metadata name="Document.Поступление.Form.ФормаДокумента" id="9d71de91-b104-4f5d-9851-97fed332618f" configVersion="3bf1cf7754c1fd43af0e612c78d2f73e00000000"/>
 		<Metadata name="Document.Поступление.Form.ФормаДокумента.Form" id="9d71de91-b104-4f5d-9851-97fed332618f.0" configVersion="7b79aeaed5b4b643a1e0bd325679a8da00000000"/>
 		<Metadata name="Document.Поступление.ObjectModule" id="380d3e8d-53f7-4ae1-8765-a414e7d9b989.0" configVersion="c9e9165aee4be245b90b21c00e565cf500000000"/>
-		<Metadata name="Document.Реализация" id="7d337faf-0a51-4d32-885a-8334bdbd3242" configVersion="e55a319c3194794b9e45cb897630501500000000">
+		<Metadata name="Document.Реализация" id="7d337faf-0a51-4d32-885a-8334bdbd3242" configVersion="65678f523b845a4eb20064c81ccce81400000000">
 			<Metadata name="Document.Реализация.TabularSection.Товары.Attribute.Свойство" id="020c7130-23dc-4c46-a009-be5f302b5257"/>
 			<Metadata name="Document.Реализация.TabularSection.Товары.Attribute.Количество" id="479d73ad-59ef-4fe1-9bef-34f7400aef54"/>
 			<Metadata name="Document.Реализация.TabularSection.Товары.Attribute.Сумма" id="54ffed68-ce54-412f-90ab-0ab6c4fc497c"/>
@@ -62,7 +63,7 @@
 		<Metadata name="Document.Реализация.Form.ФормаДокумента.Form" id="ddf4043d-19db-46ee-b828-de752adca54e.0" configVersion="65bc4bdea4832841aab8dc9f84d8e2fa00000000"/>
 		<Metadata name="Document.Реализация.Help" id="7d337faf-0a51-4d32-885a-8334bdbd3242.1" configVersion="561ddc4afdf2954cb4a68b4dc97e992300000000"/>
 		<Metadata name="Document.Реализация.ManagerModule" id="7d337faf-0a51-4d32-885a-8334bdbd3242.2" configVersion="8aeb7ee89490994d97bc10cada94060000000000"/>
-		<Metadata name="Document.Реализация.ObjectModule" id="7d337faf-0a51-4d32-885a-8334bdbd3242.0" configVersion="6030d024f9b9244cb3860e3462cb891700000000"/>
+		<Metadata name="Document.Реализация.ObjectModule" id="7d337faf-0a51-4d32-885a-8334bdbd3242.0" configVersion="c16423a576f13d4b9330de77b13b9a9300000000"/>
 		<Metadata name="Document.Реализация.Template.Печать" id="3374e539-41f5-43f1-ab23-62fee5b1c8f0" configVersion="51fe5046ae34fd4cb354609d19a6bb8d00000000"/>
 		<Metadata name="Document.Реализация.Template.Печать.Template" id="3374e539-41f5-43f1-ab23-62fee5b1c8f0.0" configVersion="69041201bc3ae24790cafbf6b697f14000000000"/>
 		<Metadata name="InformationRegister.ЗначенияСвойствТоваров" id="f0da030a-22cf-4b9c-985c-79c41c13f1f4" configVersion="351485534542244081fa8f56e123b82f00000000">
