@@ -248,6 +248,9 @@
 			<Subsystem>МиниСклад</Subsystem>
 			<CommonPicture>КартинкаМиниСклад</CommonPicture>
 			<CommonModule>РаботаСДокументами</CommonModule>
+			<CommonModule>РегламентныеПроцедуры</CommonModule>
+			<ScheduledJob>ОбновлениеИндекса</ScheduledJob>
+			<ScheduledJob>СлияниеИндексов</ScheduledJob>
 			<Catalog>Товары</Catalog>
 			<Catalog>Контрагенты</Catalog>
 			<Catalog>ДополнительныеСвойстваТоваров</Catalog>
