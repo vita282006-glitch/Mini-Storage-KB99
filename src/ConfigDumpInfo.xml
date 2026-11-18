@@ -34,7 +34,8 @@
 		<Metadata name="CommonModule.РаботаСДокументами.Module" id="27b79fb6-662c-44f5-b1b5-389e29bf7f4e.0" configVersion="c9a7c61b04dbfe4a8e3989014284716500000000"/>
 		<Metadata name="CommonPicture.КартинкаМиниСклад" id="3371610e-c7d9-4916-b94a-174baeb218d2" configVersion="e94eecefd5f55848af9a1e334247bc7000000000"/>
 		<Metadata name="CommonPicture.КартинкаМиниСклад.Picture" id="3371610e-c7d9-4916-b94a-174baeb218d2.0" configVersion="55937c87ebbf984faf5c6d99f8f1976300000000"/>
-		<Metadata name="Configuration.Конфигурация" id="8339330d-86dd-42ee-8769-627a562f6a2e" configVersion="304d7ac971264e4ea337793c2b9afe6c00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="8339330d-86dd-42ee-8769-627a562f6a2e" configVersion="1e7c68df09a36148a87abd7190635d2500000000"/>
+		<Metadata name="Configuration.Конфигурация.ManagedApplicationModule" id="7d9ae7f1-ce8b-4276-84f7-efe0beb5a573.6" configVersion="5e9ef5f04982d8438599b6a24557d81e00000000"/>
 		<Metadata name="Document.Поступление" id="380d3e8d-53f7-4ae1-8765-a414e7d9b989" configVersion="62c3619c29e3e04688b246fc89cf0f9d00000000">
 			<Metadata name="Document.Поступление.TabularSection.Товары.Attribute.Количество" id="0f28498a-0363-44c3-9d8b-1f8c227b89e8"/>
 			<Metadata name="Document.Поступление.TabularSection.Товары.Attribute.Цена" id="24769782-b238-47eb-8caa-ec3054993c2d"/>
