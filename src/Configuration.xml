@@ -247,7 +247,13 @@
 			<Language>Русский</Language>
 			<Subsystem>МиниСклад</Subsystem>
 			<CommonPicture>КартинкаМиниСклад</CommonPicture>
+			<Role>Администратор</Role>
+			<Role>Директор</Role>
+			<Role>Мастер</Role>
 			<CommonModule>РаботаСДокументами</CommonModule>
+			<CommonModule>РегламентныеПроцедуры</CommonModule>
+			<ScheduledJob>ОбновлениеИндекса</ScheduledJob>
+			<ScheduledJob>СлияниеИндексов</ScheduledJob>
 			<Catalog>Товары</Catalog>
 			<Catalog>Контрагенты</Catalog>
 			<Catalog>ДополнительныеСвойстваТоваров</Catalog>
