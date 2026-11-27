@@ -252,12 +252,14 @@
 			<Role>Мастер</Role>
 			<CommonModule>РаботаСДокументами</CommonModule>
 			<CommonModule>РегламентныеПроцедуры</CommonModule>
+			<HTTPService>СотрудникиВнешнийСервис</HTTPService>
 			<ScheduledJob>ОбновлениеИндекса</ScheduledJob>
 			<ScheduledJob>СлияниеИндексов</ScheduledJob>
 			<Catalog>Товары</Catalog>
 			<Catalog>Контрагенты</Catalog>
 			<Catalog>ДополнительныеСвойстваТоваров</Catalog>
 			<Catalog>ВариантыТоваров</Catalog>
+			<Catalog>Сотрудники</Catalog>
 			<Document>Поступление</Document>
 			<Document>Реализация</Document>
 			<Report>ОтчетПоПродажам</Report>
